@@ -1,0 +1,27 @@
+{
+  "name": "unknown-functions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "unbuild",
+    "dev": "unbuild --stub",
+    "start": "esno src/main.ts"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@mohamed-elrefai/eslint-config": "^0.4.1",
+    "@mohamed-elrefai/tsconfigs": "^0.0.2",
+    "@types/node": "^20.10.5",
+    "canvas": "^2.11.2",
+    "eslint": "^8.56.0",
+    "esno": "^4.0.0",
+    "fs-extra": "^11.2.0",
+    "typescript": "^5.3.3",
+    "unbuild": "^2.0.0"
+  }
+}
