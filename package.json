@@ -2,7 +2,7 @@
   "name": "unknown-functions",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "build": "unbuild",
     "dev": "unbuild --stub",
